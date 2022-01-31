@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/News-Menia/static/css/main.0bf3d88b.css",
+    "main.js": "/News-Menia/static/js/main.17f1d52c.js",
+    "static/js/787.493e6d0d.chunk.js": "/News-Menia/static/js/787.493e6d0d.chunk.js",
+    "static/media/loading.gif": "/News-Menia/static/media/loading.876d531cf670cee59ac2.gif",
+    "index.html": "/News-Menia/index.html",
+    "main.0bf3d88b.css.map": "/News-Menia/static/css/main.0bf3d88b.css.map",
+    "main.17f1d52c.js.map": "/News-Menia/static/js/main.17f1d52c.js.map",
+    "787.493e6d0d.chunk.js.map": "/News-Menia/static/js/787.493e6d0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf3d88b.css",
+    "static/js/main.17f1d52c.js"
+  ]
+}
